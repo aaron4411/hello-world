@@ -1,2 +1,1 @@
-# hello-world
-test project
+# hello-klaas
